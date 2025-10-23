@@ -1,8 +1,8 @@
 ---
 title: LAB Model Alluvial Stratigraphy Simulator
 emoji: "🟦"
-colorFrom: "#0EA5A4"
-colorTo: "#0369A1"
+colorFrom: blue
+colorTo: indigo
 sdk: streamlit
 sdk_version: "1.0"
 app_file: app.py
