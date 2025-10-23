@@ -1,3 +1,14 @@
+---
+title: LAB Model Alluvial Stratigraphy Simulator
+emoji: "🟦"
+colorFrom: "#0EA5A4"
+colorTo: "#0369A1"
+sdk: streamlit
+sdk_version: "1.0"
+app_file: app.py
+pinned: false
+---
+
 # LAB Model Alluvial Stratigraphy Simulator
 
 ## Overview
@@ -26,7 +37,7 @@ This project simulates sedimentary basin stratigraphy using a simple LAB model. 
 ## Usage
 1. Run the Streamlit application:
    ```bash
-   streamlit run lab.py
+   streamlit run app.py
    ```
 2. Open the application in your browser at `http://localhost:8501`.
 3. Adjust parameters in the sidebar and click "Run Simulation" to view results.
