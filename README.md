@@ -67,3 +67,8 @@ This project uses the following libraries:
 - **NumPy**: For numerical computations.
 - **Matplotlib**: For plotting.
 - **SciPy**: For image analysis.
+
+## Live Demo
+
+Check out the live demo of this project on Hugging Face Spaces:
+[https://huggingface.co/spaces/minsikkim/simpleLABmodel](https://huggingface.co/spaces/minsikkim/simpleLABmodel)
